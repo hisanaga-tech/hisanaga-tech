@@ -1,0 +1,11 @@
+JCL 19pmodeをアップロード
+
+JCL 4D 共有リポジトリ
+
+temp
+temp01
+temp02
+
+general
+
+JCL
